@@ -1,6 +1,7 @@
 const myHeaders = new Headers();
 const local_uri = "http://localhost:8085/report?customer_id=";
 const hml_uri = "https://api-plataformabi-homol.logcomex.io:8085/report?customer_id=";
+const prd_uri = "https://api-plataformabi.logcomex.io/report?customer_id=";
 myHeaders.append("X-Infra-Key", "20ea6c42-06eb-4e0e-8cfd-ecfa691e5164");
 
 const requestOptions = {
@@ -18,7 +19,7 @@ const addEventListeners = () => {
 
 const getAlertsData = async (id) => {
   try {
-    const response = await fetch(hml_uri + id, requestOptions);
+    const response = await fetch(prd_uri + id, requestOptions);
     console.log('Request Status Code: ', response.status);
 
     if (!response.ok) {
