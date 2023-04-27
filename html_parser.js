@@ -108,8 +108,13 @@ const reportResultLineType = (reportResultLine) => {
 
 const parseDateStringToFormatedDateString = (dateString) => {
     const year = dateString.substr(0, 4);
-    const month = dateString.substr(6, 2);
-    const day = dateString.substr(9)
+    const month = dateString.substr(5, 2);
+    const day = dateString.substr(8)
+    
+    console.log(dateString)
+    console.log('year: ' + year);
+    console.log('month: ' + month);
+    console.log('day: ' + day);
 
     const months = [
         'jan',
