@@ -1,6 +1,6 @@
 const myHeaders = new Headers();
 const local_uri = "http://localhost:8085/report?customer_id=";
-const hml_uri = "http://api-plataformabi-homol.logcomex.io:8085/report?customer_id=";
+const hml_uri = "https://api-plataformabi-homol.logcomex.io:8085/report?customer_id=";
 myHeaders.append("X-Infra-Key", "20ea6c42-06eb-4e0e-8cfd-ecfa691e5164");
 
 const requestOptions = {
