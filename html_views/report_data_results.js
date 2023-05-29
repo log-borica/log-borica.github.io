@@ -3,9 +3,34 @@ const reportDataResultsWrapperHtml = `<!--[if mso | IE]></td></tr></table><table
     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
         <tbody>
         <tr>
-            <td style="direction:ltr;font-size:0px;padding:24px 24px 8px 24px;text-align:center;">
+            <td style="direction:ltr;font-size:0px;padding:24px 24px 0px 24px;text-align:center;">
             {{ $report_data_result_lines }}
             <!--[if mso | IE]></td></tr></table></td></tr><tr><td class="" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:552px;" width="552" bgcolor="#F5F6FC" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+            </td>
+        </tr>
+        <tr>
+            <td style="direction:ltr;font-size:0px;padding:0 24px 0 24px;text-align:center;">
+                <div style="background:#F5F6FC;background-color:#F5F6FC;margin:0px auto;max-width:552px;">
+                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                        <tbody>
+                        <tr>
+                            <td align="center" vertical-align="middle" style="font-size:0;padding:32px 34px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:244px;line-height:100%;">
+                                    <tr>
+                                        <td align="center" bgcolor="#6613D0" role="presentation" style="border:none;border-radius:8px;cursor:auto;height:40px;mso-padding-alt:10px 25px;text-align:center;background:#6613D0;" valign="middle">
+                                            <a href="{{ $platform_url }}">
+                                                <p style="display:inline-block;width:194px;background:#6613D0;color:#FFFFFF;font-family:Poppins;font-size:14px;font-weight:normal;line-height:18px;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:8px;">
+                                                    Acessar consulta completa
+                                                </p>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
             </td>
         </tr>
         </tbody>

@@ -2,26 +2,6 @@ const footerHtml = `<div style="margin:0px auto;max-width:600px;">
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
     <tbody>
         <tr>
-            <td align="center" vertical-align="middle"
-                style="font-size:0px;padding:10px 25px;padding-top:32px;word-break:break-word;">
-                <table border="0" cellpadding="0" cellspacing="0" role="presentation"
-                    style="border-collapse:separate;width:244px;line-height:100%;">
-                    <tr>
-                        <td align="center" bgcolor="#6613D0" role="presentation"
-                            style="border:none;border-radius:8px;cursor:auto;height:40px;mso-padding-alt:10px 25px;text-align:center;background:#6613D0;"
-                            valign="middle">
-                            <a href="{{ $platform_url }}">
-                                <p
-                                    style="display:inline-block;width:194px;background:#6613D0;color:#FFFFFF;font-family:Poppins;font-size:14px;font-weight:normal;line-height:18px;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:8px;">
-                                    Acessar consulta completa
-                                </p>
-                            </a>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-        <tr>
             <td align="center" style="font-size:0px;padding:36px 24px 25px 24px;word-break:break-word;">
                 <p style="border-top:solid 1px #E0E1EB;font-size:1px;margin:0px auto;width:100%;">
                 </p>

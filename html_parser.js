@@ -1,7 +1,7 @@
 
 const parseJsonToHtml = (alertPayload) => {
     parsed_html = parseAlertsHeader(alertPayload);
-    parsed_html += parseAlertsReportDataResults(alertPayload.report_data_results);
+    parsed_html += parseAlertsReportDataResults(alertPayload);
     parsed_html += parseAlertsReportResults(alertPayload.report_results);
     parsed_html += parseFooter(alertPayload);
 
@@ -23,10 +23,10 @@ const parseAlertsHeader = (headerParams) => {
     return processedHtmlHeader;
 }
 
-const parseAlertsReportDataResults = (reportDataResults) => {
+const parseAlertsReportDataResults = (alertPayload) => {
     const processedReportDataResultLines = [];
 
-    reportDataResults.forEach((reportDataResultRow) => {
+    alertPayload.report_data_results.forEach((reportDataResultRow) => {
         let processedReportDataResultLine = reportDataResultLineHtml;
         
         if (Object(reportDataResultRow)['subline_text_number'] && Object(reportDataResultRow)['upper_text']) {
@@ -44,7 +44,9 @@ const parseAlertsReportDataResults = (reportDataResults) => {
 
     const processedReportDataResults = reportDataResultsWrapperHtml;
     
-    return processedReportDataResults.replace(`{{ $report_data_result_lines }}`, processedReportDataResultLines);
+    return processedReportDataResults
+        .replace(`{{ $report_data_result_lines }}`, processedReportDataResultLines)
+        .replace(`{{ $platform_url }}`, alertPayload.platform_url);
 }
 
 const parseAlertsReportResults = (reportResults) => {
