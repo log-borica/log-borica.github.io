@@ -87,17 +87,17 @@ const showLoadingContainer = () => {
 }
 
 const parsePayloadToHtml = (alertPayload) => {
-  // try {
+  try {
     const parsedHtml = parseJsonToHtml(alertPayload);
     document.getElementById('report-subject-container').innerHTML = `<b>Assunto</b>: ${alertPayload.report_subject ? alertPayload.report_subject : 'Não informado.'}`;
     document.getElementById('report-cco-container').innerHTML = `<b>CCO</b>: ${alertPayload.report_bcc ? alertPayload.report_bcc : 'Não informado.'}`;
     document.getElementById('alert-mail-content').innerHTML = '';
     document.getElementById('alert-mail-content').insertAdjacentHTML('beforeend', parsedHtml);
     showContentContainer();
-  // } catch (err) {
-  //   alert('Erro ao parsear o payload de Alerta para HTML');
-  //   showStandByMessageContainer();
-  // }
+  } catch (err) {
+    alert('Erro ao parsear o payload de Alerta para HTML');
+    showStandByMessageContainer();
+  }
 }
 
 const renderAlertsCustomerList = () => {
