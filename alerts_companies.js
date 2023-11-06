@@ -1,9 +1,5 @@
 const alerts_companies = `[
     {
-        "id": 11327,
-        "name": "ABOARD LOGISTICS LTDA"
-    },
-    {
         "id": 456,
         "name": "ACTION AGENCIAMENTO DE CARGAS LTDA"
     },
@@ -40,10 +36,6 @@ const alerts_companies = `[
         "name": "ASLL AIRSEA LAND ASSESSORIA E LOGISTICA LTDA"
     },
     {
-        "id": 132,
-        "name": "ATL GLOBAL SHIPPING LOGISTICA LTDA"
-    },
-    {
         "id": 94,
         "name": "AXIS SHIPPING CONSULTORIA E AGENCIAMENTO LTDA"
     },
@@ -70,10 +62,6 @@ const alerts_companies = `[
     {
         "id": 70,
         "name": "BOSS SHIPPING LOGISTICA EIRELI"
-    },
-    {
-        "id": 2658,
-        "name": "BRACHMANN WORLDWIDE LOGISTICS LTDA"
     },
     {
         "id": 1059,
@@ -160,10 +148,6 @@ const alerts_companies = `[
         "name": "DHL GLOBAL FORWARDING BRAZIL"
     },
     {
-        "id": 80,
-        "name": "DMS AGENCIAMENTO DE CARGAS E LOGISTICA LTDA"
-    },
-    {
         "id": 1993,
         "name": "DUX AGENCIAMENTO DE CARGAS EIRELI"
     },
@@ -178,14 +162,6 @@ const alerts_companies = `[
     {
         "id": 302,
         "name": "ECU WORLDWIDE LOGISTICS DO BRASIL LTDA"
-    },
-    {
-        "id": 860,
-        "name": "EFFICIENZA IMPORTACAO E EXPORTACAO"
-    },
-    {
-        "id": 2774,
-        "name": "EFICIENCIA COMERCIO EXTERIOR LTDA"
     },
     {
         "id": 967,
@@ -230,6 +206,10 @@ const alerts_companies = `[
     {
         "id": 11158,
         "name": "FOURTH COMPANY LOGISTICS LTDA"
+    },
+    {
+        "id": 116,
+        "name": "FOX CARGO DO BRASIL"
     },
     {
         "id": 1135,
@@ -324,12 +304,12 @@ const alerts_companies = `[
         "name": "KPM LOGISTICS AGENCIAMENTO DE CARGAS EIRELI"
     },
     {
-        "id": 234,
-        "name": "KUEHNE NAGEL SERVICOS LOGISTICOS LTDA."
+        "id": 3558,
+        "name": "KRG LOGISTICA LTDA"
     },
     {
-        "id": 1861,
-        "name": "LAC WORLDWIDE DO BRASIL"
+        "id": 234,
+        "name": "KUEHNE NAGEL SERVICOS LOGISTICOS LTDA."
     },
     {
         "id": 7522,
@@ -350,6 +330,10 @@ const alerts_companies = `[
     {
         "id": 229,
         "name": "LOGWIN AIR + OCEAN BRAZIL LOGISTICA E DESPACHO LTDA."
+    },
+    {
+        "id": 7004,
+        "name": "L RODRIGUES AGENCIAMENTO MARITIMO"
     },
     {
         "id": 662,
@@ -402,10 +386,6 @@ const alerts_companies = `[
     {
         "id": 1409,
         "name": "NOWPORTS BRASIL LTDA"
-    },
-    {
-        "id": 929,
-        "name": "OPEN SEA LOGISTICA INTERNACIONAL"
     },
     {
         "id": 10845,
@@ -508,6 +488,10 @@ const alerts_companies = `[
         "name": "SEND CARGO AGENCIAMENTO DE CARGAS LTDA"
     },
     {
+        "id": 9070,
+        "name": "SILK NEGOCIOS INTERNACIONAIS LTDA"
+    },
+    {
         "id": 391,
         "name": "SKYMARINE LOGISTICA LTDA"
     },
@@ -544,6 +528,10 @@ const alerts_companies = `[
         "name": "TWM TRANSPORTE INTERNACIONAL LTDA"
     },
     {
+        "id": 1909,
+        "name": "UNITRADING LOGISTICA"
+    },
+    {
         "id": 365,
         "name": "UP LOGISTIC REPRESENTACOES EIRELI"
     },
@@ -566,6 +554,10 @@ const alerts_companies = `[
     {
         "id": 361,
         "name": "V SANTOS ASSESSORIA ADUANEIRA"
+    },
+    {
+        "id": 2659,
+        "name": "WEEDO LOGISTICA BRASIL EIRELI"
     },
     {
         "id": 10661,
