@@ -109,6 +109,7 @@ const reportResultLineType = (reportResultLine) => {
 };
 
 const parseDateStringToFormatedDateString = (dateString) => {
+    debugger
     const year = dateString.substr(0, 4);
     const month = dateString.substr(5, 2);
     const day = dateString.substr(8)
@@ -121,6 +122,7 @@ const parseDateStringToFormatedDateString = (dateString) => {
         'jun',
         'jul',
         'ago',
+        'set',
         'out',
         'nov',
         'dez'
