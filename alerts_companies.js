@@ -56,12 +56,12 @@ const alerts_companies = `[
         "name": "BLU LOGISTICS BRASIL TRANSPORTES INTERNACIONAIS LTDA"
     },
     {
-        "id": 3547,
-        "name": "BOREALIS SERVICOS LOGISTICOS EIRELI"
-    },
-    {
         "id": 70,
         "name": "BOSS SHIPPING LOGISTICA EIRELI"
+    },
+    {
+        "id": 2658,
+        "name": "BRACHMANN WORLDWIDE LOGISTICS LTDA"
     },
     {
         "id": 1059,
@@ -164,8 +164,8 @@ const alerts_companies = `[
         "name": "ECU WORLDWIDE LOGISTICS DO BRASIL LTDA"
     },
     {
-        "id": 967,
-        "name": "ELO SOLUCOES LOGISTICAS INTEGRADAS LTDA"
+        "id": 2774,
+        "name": "EFICIENCIA COMERCIO EXTERIOR LTDA"
     },
     {
         "id": 239,
@@ -196,12 +196,12 @@ const alerts_companies = `[
         "name": "FEDEX TRADE NETWORKS SERVICOS"
     },
     {
-        "id": 212,
-        "name": "FIL GROUP TRANSPORTE INTERNACIONAL"
-    },
-    {
         "id": 5754,
         "name": "FISCHER & RECHSTEINER DO BRASIL LOGISTICA S.A"
+    },
+    {
+        "id": 9688,
+        "name": "FMX GLOBAL FREIGHT FORWARDER LTDA"
     },
     {
         "id": 11158,
@@ -340,10 +340,6 @@ const alerts_companies = `[
         "name": "MAERSK LOGISTICS SERVICES BRASIL"
     },
     {
-        "id": 36,
-        "name": "MASTER SHIPPING LOGISTICA INTERNACIONAL"
-    },
-    {
         "id": 95,
         "name": "MASTER SUL COMEX LTDA"
     },
@@ -370,10 +366,6 @@ const alerts_companies = `[
     {
         "id": 363,
         "name": "NELSON HEUSI LOGISTICA E ARMAZENS GERAIS LTDA"
-    },
-    {
-        "id": 567,
-        "name": "NEW HUB BRAZIL TRANSPORTES"
     },
     {
         "id": 1764,
@@ -524,10 +516,6 @@ const alerts_companies = `[
         "name": "TRANSIT BR LOGISTICA LTDA"
     },
     {
-        "id": 10193,
-        "name": "TWM TRANSPORTE INTERNACIONAL LTDA"
-    },
-    {
         "id": 1909,
         "name": "UNITRADING LOGISTICA"
     },
@@ -562,10 +550,6 @@ const alerts_companies = `[
     {
         "id": 10661,
         "name": "WIDE LOGISTICS LTDA"
-    },
-    {
-        "id": 1619,
-        "name": "WINKELMANN & ROMAO AGENCIAMENTO DE CARGAS LTDA"
     },
     {
         "id": 6429,
