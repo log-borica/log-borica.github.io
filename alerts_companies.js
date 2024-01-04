@@ -1,5 +1,9 @@
 const alerts_companies = `[
     {
+        "id": 11327,
+        "name": "ABOARD LOGISTICS LTDA"
+    },
+    {
         "id": 456,
         "name": "ACTION AGENCIAMENTO DE CARGAS LTDA"
     },
@@ -78,10 +82,6 @@ const alerts_companies = `[
     {
         "id": 1070,
         "name": "BRUNIN EXPRESS TRANSPORTES LTDA"
-    },
-    {
-        "id": 1014,
-        "name": "CAPITALLOG LOGISTICA LTDA"
     },
     {
         "id": 730,
@@ -164,8 +164,8 @@ const alerts_companies = `[
         "name": "ECU WORLDWIDE LOGISTICS DO BRASIL LTDA"
     },
     {
-        "id": 2774,
-        "name": "EFICIENCIA COMERCIO EXTERIOR LTDA"
+        "id": 967,
+        "name": "ELO SOLUCOES LOGISTICAS INTEGRADAS LTDA"
     },
     {
         "id": 239,
@@ -198,10 +198,6 @@ const alerts_companies = `[
     {
         "id": 5754,
         "name": "FISCHER & RECHSTEINER DO BRASIL LOGISTICA S.A"
-    },
-    {
-        "id": 9688,
-        "name": "FMX GLOBAL FREIGHT FORWARDER LTDA"
     },
     {
         "id": 11158,
@@ -310,6 +306,10 @@ const alerts_companies = `[
     {
         "id": 234,
         "name": "KUEHNE NAGEL SERVICOS LOGISTICOS LTDA."
+    },
+    {
+        "id": 1861,
+        "name": "LAC WORLDWIDE DO BRASIL"
     },
     {
         "id": 7522,
@@ -550,6 +550,10 @@ const alerts_companies = `[
     {
         "id": 10661,
         "name": "WIDE LOGISTICS LTDA"
+    },
+    {
+        "id": 1619,
+        "name": "WINKELMANN & ROMAO AGENCIAMENTO DE CARGAS LTDA"
     },
     {
         "id": 6429,
