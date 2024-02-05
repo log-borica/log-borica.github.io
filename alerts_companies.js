@@ -1,19 +1,11 @@
 const alerts_companies = `[
     {
-        "id": 11327,
-        "name": "ABOARD LOGISTICS LTDA"
-    },
-    {
         "id": 456,
         "name": "ACTION AGENCIAMENTO DE CARGAS LTDA"
     },
     {
         "id": 200,
         "name": "AFFINITY LOGISTICA INTERNACIONAL LTDA"
-    },
-    {
-        "id": 6382,
-        "name": "AFIANCI LOGISTICA INTERNACIONAL EIRELI"
     },
     {
         "id": 1940,
@@ -89,7 +81,7 @@ const alerts_companies = `[
     },
     {
         "id": 22,
-        "name": "CARGO SHIPPING SERVICES LTDA"
+        "name": "CARGO SHIPPING SAO PAULO"
     },
     {
         "id": 848,
@@ -154,10 +146,6 @@ const alerts_companies = `[
     {
         "id": 196,
         "name": "DZL LOGISTICA INTERNACIONAL LTDA"
-    },
-    {
-        "id": 1272,
-        "name": "EALOG INTERNATIONAL LOGISTICS GROUP LTDA."
     },
     {
         "id": 302,
@@ -436,20 +424,8 @@ const alerts_companies = `[
         "name": "RHENUS PIRAMIDE COMERCIO EXTERIOR EIRELI"
     },
     {
-        "id": 1192,
-        "name": "RORIKA LOGISTICS LTDA"
-    },
-    {
-        "id": 319,
-        "name": "ROYAL AGENCIAMENTOS DE CARGAS"
-    },
-    {
         "id": 6559,
         "name": "SAC AGENCIAMENTO INTERNACIONAL DE CARGA EIRELI"
-    },
-    {
-        "id": 5123,
-        "name": "SAMSUNG SDS LATIN AMERICA TECNOLOGIA E LOGISTICA LTDA"
     },
     {
         "id": 10676,
@@ -478,10 +454,6 @@ const alerts_companies = `[
     {
         "id": 6490,
         "name": "SEND CARGO AGENCIAMENTO DE CARGAS LTDA"
-    },
-    {
-        "id": 9070,
-        "name": "SILK NEGOCIOS INTERNACIONAIS LTDA"
     },
     {
         "id": 391,
