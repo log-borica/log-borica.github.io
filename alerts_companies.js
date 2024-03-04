@@ -116,10 +116,6 @@ const alerts_companies = `[
         "name": "CRONOS LOGISTICA LTDA"
     },
     {
-        "id": 209,
-        "name": "CTI - CEARA TRANSPORTES INTERNACIONAIS LTDA"
-    },
-    {
         "id": 1899,
         "name": "CURTIS LOGISTICA INTERNACIONAL EIRELI"
     },
@@ -134,10 +130,6 @@ const alerts_companies = `[
     {
         "id": 190,
         "name": "DELPHI FRETES INTERNACIONAIS EIRELI"
-    },
-    {
-        "id": 4712,
-        "name": "DHL GLOBAL FORWARDING BRAZIL"
     },
     {
         "id": 1993,
@@ -170,10 +162,6 @@ const alerts_companies = `[
     {
         "id": 620,
         "name": "EXZELLENZ COMERCIO EXTERIOR E TRANSPORTES INTERNACIONAIS"
-    },
-    {
-        "id": 548,
-        "name": "FAM CARGO BR LOGISTICA"
     },
     {
         "id": 906,
@@ -222,10 +210,6 @@ const alerts_companies = `[
     {
         "id": 318,
         "name": "GWL LOGISTICS IMPORTACAO EXPORTACAO"
-    },
-    {
-        "id": 585,
-        "name": "HANSA MEYER GLOBAL TRANSPORTES LTDA"
     },
     {
         "id": 1042,
@@ -296,10 +280,6 @@ const alerts_companies = `[
         "name": "KUEHNE NAGEL SERVICOS LOGISTICOS LTDA."
     },
     {
-        "id": 1861,
-        "name": "LAC WORLDWIDE DO BRASIL"
-    },
-    {
         "id": 7522,
         "name": "LIKES LOGISTICA INTERNACIONAL LTDA"
     },
@@ -318,10 +298,6 @@ const alerts_companies = `[
     {
         "id": 229,
         "name": "LOGWIN AIR + OCEAN BRAZIL LOGISTICA E DESPACHO LTDA."
-    },
-    {
-        "id": 7004,
-        "name": "L RODRIGUES AGENCIAMENTO MARITIMO"
     },
     {
         "id": 662,
@@ -414,10 +390,6 @@ const alerts_companies = `[
     {
         "id": 127,
         "name": "QUANTUM LOGISTICA LTDA"
-    },
-    {
-        "id": 785,
-        "name": "RANGEL LOGISTICA BRASIL LTDA"
     },
     {
         "id": 163,
