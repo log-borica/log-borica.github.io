@@ -116,10 +116,6 @@ const alerts_companies = `[
         "name": "DZL LOGISTICA INTERNACIONAL LTDA"
     },
     {
-        "id": 860,
-        "name": "EFFICIENZA IMPORTACAO E EXPORTACAO"
-    },
-    {
         "id": 2774,
         "name": "EFICIENCIA COMERCIO EXTERIOR LTDA"
     },
@@ -198,6 +194,10 @@ const alerts_companies = `[
     {
         "id": 585,
         "name": "HANSA MEYER GLOBAL TRANSPORTES LTDA"
+    },
+    {
+        "id": 1042,
+        "name": "HECTOR EXPRESS TRANSPORTATION BRAZIL"
     },
     {
         "id": 29,
@@ -324,10 +324,6 @@ const alerts_companies = `[
         "name": "POLY CARGO LOGISTICA LTDA"
     },
     {
-        "id": 1633,
-        "name": "PORTHOS INTERNATIONAL LOGISTICS LTDA"
-    },
-    {
         "id": 928,
         "name": "PROLIN - IMPORTACAO E EXPORTACAO, PROJETOS E LOGISTICA INTEG"
     },
@@ -382,10 +378,6 @@ const alerts_companies = `[
     {
         "id": 10143,
         "name": "TEX SHIPPING LTDA"
-    },
-    {
-        "id": 3507,
-        "name": "THEXXCOM LOGISTICS FREIGHT FORWARDER LTDA"
     },
     {
         "id": 188,
