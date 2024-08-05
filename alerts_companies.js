@@ -12,10 +12,6 @@ const alerts_companies = `[
         "name": "AIR SEA LOGISTIC LTDA"
     },
     {
-        "id": 1044,
-        "name": "ALC LOGISTICS LTDA"
-    },
-    {
         "id": 144,
         "name": "ALLINK TRANSPORTES INTERNACIONAIS LTDA"
     },
@@ -128,14 +124,6 @@ const alerts_companies = `[
         "name": "EFFICIENZA IMPORTACAO E EXPORTACAO"
     },
     {
-        "id": 2774,
-        "name": "EFICIENCIA COMERCIO EXTERIOR LTDA"
-    },
-    {
-        "id": 967,
-        "name": "ELO SOLUCOES LOGISTICAS INTEGRADAS LTDA"
-    },
-    {
         "id": 239,
         "name": "ES BRASIL LOGISTICA LTDA"
     },
@@ -148,10 +136,6 @@ const alerts_companies = `[
         "name": "EXPEDITORS INTERNATIONAL DO BRASIL LTDA"
     },
     {
-        "id": 620,
-        "name": "EXZELLENZ COMERCIO EXTERIOR E TRANSPORTES INTERNACIONAIS"
-    },
-    {
         "id": 548,
         "name": "FAM CARGO BR LOGISTICA"
     },
@@ -160,20 +144,8 @@ const alerts_companies = `[
         "name": "FAST SHIPPING AGENCIAMENTO DE CARGAS LTDA"
     },
     {
-        "id": 474,
-        "name": "FEDEX TRADE NETWORKS SERVICOS"
-    },
-    {
         "id": 5754,
         "name": "FISCHER & RECHSTEINER DO BRASIL LOGISTICA S.A"
-    },
-    {
-        "id": 11158,
-        "name": "FOURTH COMPANY LOGISTICS LTDA"
-    },
-    {
-        "id": 116,
-        "name": "FOX CARGO DO BRASIL"
     },
     {
         "id": 116,
@@ -264,18 +236,6 @@ const alerts_companies = `[
         "name": "KRG LOGISTICA LTDA"
     },
     {
-        "id": 234,
-        "name": "KUEHNE NAGEL SERVICOS LOGISTICOS LTDA."
-    },
-    {
-        "id": 1861,
-        "name": "LAC WORLDWIDE DO BRASIL"
-    },
-    {
-        "id": 7522,
-        "name": "LIKES LOGISTICA INTERNACIONAL LTDA"
-    },
-    {
         "id": 881,
         "name": "LOCKSLEY LOGISTICA LTDA"
     },
@@ -344,10 +304,6 @@ const alerts_companies = `[
         "name": "POLY CARGO LOGISTICA LTDA"
     },
     {
-        "id": 1633,
-        "name": "PORTHOS INTERNATIONAL LOGISTICS LTDA"
-    },
-    {
         "id": 928,
         "name": "PROLIN - IMPORTACAO E EXPORTACAO, PROJETOS E LOGISTICA INTEG"
     },
@@ -384,10 +340,6 @@ const alerts_companies = `[
         "name": "SEA EXPRESS LOGISTICA LTDA"
     },
     {
-        "id": 6490,
-        "name": "SEND CARGO AGENCIAMENTO DE CARGAS LTDA"
-    },
-    {
         "id": 391,
         "name": "SKYMARINE LOGISTICA LTDA"
     },
@@ -406,10 +358,6 @@ const alerts_companies = `[
     {
         "id": 10143,
         "name": "TEX SHIPPING LTDA"
-    },
-    {
-        "id": 3507,
-        "name": "THEXXCOM LOGISTICS FREIGHT FORWARDER LTDA"
     },
     {
         "id": 188,
