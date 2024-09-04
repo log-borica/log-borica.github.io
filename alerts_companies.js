@@ -8,16 +8,8 @@ const alerts_companies = `[
         "name": "AFFINITY LOGISTICA INTERNACIONAL LTDA"
     },
     {
-        "id": 5764,
-        "name": "AIR SEA LOGISTIC LTDA"
-    },
-    {
         "id": 144,
         "name": "ALLINK TRANSPORTES INTERNACIONAIS LTDA"
-    },
-    {
-        "id": 224,
-        "name": "ALLOG PARTICIPACOES LTDA"
     },
     {
         "id": 112,
@@ -98,10 +90,6 @@ const alerts_companies = `[
     {
         "id": 3627,
         "name": "CRONOS LOGISTICA LTDA"
-    },
-    {
-        "id": 1360,
-        "name": "CSA DO BRASIL NEGOCIOS EM LOGISTICA LTDA."
     },
     {
         "id": 209,
@@ -242,10 +230,6 @@ const alerts_companies = `[
     {
         "id": 800,
         "name": "LOGISTIC CO. INTERNACIONAL LTDA"
-    },
-    {
-        "id": 1292,
-        "name": "LOGITRADE REPRESENTACAO, TRANSPORTES E COMERCIO INTERNACIONA"
     },
     {
         "id": 229,
