@@ -462,5 +462,5 @@ const alerts_companies = `[
     {
       "id": 778,
       "name": "X5 LOGISTICA INTERNACIONAL LTDA"
-    },
+    }
 ]`;
