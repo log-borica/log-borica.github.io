@@ -16,16 +16,16 @@ const alerts_companies = `[
     "name": "ALLINK TRANSPORTES INTERNACIONAIS LTDA"
   },
   {
-    "id": 224,
-    "name": "ALLOG PARTICIPACOES LTDA"
-  },
-  {
     "id": 112,
     "name": "ANX LOGISTICA INTERNACIONAL E AGENCIAMENTO LTDA"
   },
   {
     "id": 4,
     "name": "ASIA SHIPPING TRANSPORTES INTERNACIONAIS LTDA"
+  },
+  {
+    "id": 171,
+    "name": "ASLL - AIRSEA LAND ASSESSORIA E LOGISTICA LTDA"
   },
   {
     "id": 5032,
@@ -64,10 +64,6 @@ const alerts_companies = `[
     "name": "CARGO SHIPPING SERVICES LTDA"
   },
   {
-    "id": 848,
-    "name": "CERKLOG LOGISTICA E SERVICOS INTERNACIONAIS LTDA"
-  },
-  {
     "id": 454,
     "name": "CEVA FREIGHT MANAGEMENT DO BRASIL LTDA."
   },
@@ -78,10 +74,6 @@ const alerts_companies = `[
   {
     "id": 2011,
     "name": "CNE - LOGISTICA INTERNACIONAL LTDA"
-  },
-  {
-    "id": 315,
-    "name": "COMISSARIA PIBERNAT LTDA"
   },
   {
     "id": 8961,
@@ -134,10 +126,6 @@ const alerts_companies = `[
   {
     "id": 302,
     "name": "ECU WORLDWIDE LOGISTICS DO BRASIL LTDA"
-  },
-  {
-    "id": 2774,
-    "name": "EFICIENCIA COMERCIO EXTERIOR LTDA"
   },
   {
     "id": 239,
@@ -200,10 +188,6 @@ const alerts_companies = `[
     "name": "HANSA MEYER GLOBAL TRANSPORTES LTDA"
   },
   {
-    "id": 1042,
-    "name": "HECTOR EXPRESS TRANSPORTATION (BRAZIL) LTDA"
-  },
-  {
     "id": 218,
     "name": "H.M. WAY COMERCIO EXTERIOR LTDA"
   },
@@ -252,12 +236,12 @@ const alerts_companies = `[
     "name": "KRG LOGISTICA LTDA"
   },
   {
-    "id": 1013,
-    "name": "KSL BR LTDA"
-  },
-  {
     "id": 234,
     "name": "KUEHNE+NAGEL SERVICOS LOGISTICOS LTDA."
+  },
+  {
+    "id": 1861,
+    "name": "LAC WORLDWIDE DO BRASIL TRANSPORTES INTERNACIONAIS S.A."
   },
   {
     "id": 881,
@@ -334,10 +318,6 @@ const alerts_companies = `[
   {
     "id": 42,
     "name": "PORTCO LOGISTICS LTDA"
-  },
-  {
-    "id": 5031,
-    "name": "PORT TRADE LOGISTICS LTDA"
   },
   {
     "id": 928,
@@ -446,6 +426,10 @@ const alerts_companies = `[
   {
     "id": 10661,
     "name": "WIDE LOGISTICS LTDA"
+  },
+  {
+    "id": 1619,
+    "name": "WINKELMANN & PADILHA LOGISTICA LTDA"
   },
   {
     "id": 6429,
