@@ -16,6 +16,10 @@ const alerts_companies = `[
     "name": "ALLINK TRANSPORTES INTERNACIONAIS LTDA"
   },
   {
+    "id": 224,
+    "name": "ALLOG PARTICIPACOES LTDA"
+  },
+  {
     "id": 112,
     "name": "ANX LOGISTICA INTERNACIONAL E AGENCIAMENTO LTDA"
   },
@@ -68,10 +72,6 @@ const alerts_companies = `[
     "name": "CEVA FREIGHT MANAGEMENT DO BRASIL LTDA."
   },
   {
-    "id": 1319,
-    "name": "C-FREIGHT AGENCIAMENTOS INTERNACIONAIS LTDA"
-  },
-  {
     "id": 2011,
     "name": "CNE - LOGISTICA INTERNACIONAL LTDA"
   },
@@ -112,10 +112,6 @@ const alerts_companies = `[
     "name": "DHL GLOBAL FORWARDING (BRAZIL) LOGISTICS LTDA."
   },
   {
-    "id": 89,
-    "name": "DSV AIR & SEA BRASIL LTDA"
-  },
-  {
     "id": 1993,
     "name": "DUX AGENCIAMENTO DE CARGAS LTDA."
   },
@@ -126,6 +122,10 @@ const alerts_companies = `[
   {
     "id": 302,
     "name": "ECU WORLDWIDE LOGISTICS DO BRASIL LTDA"
+  },
+  {
+    "id": 860,
+    "name": "EFFICIENZA IMPORTACAO E EXPORTACAO LTDA"
   },
   {
     "id": 239,
@@ -236,12 +236,12 @@ const alerts_companies = `[
     "name": "KRG LOGISTICA LTDA"
   },
   {
-    "id": 234,
-    "name": "KUEHNE+NAGEL SERVICOS LOGISTICOS LTDA."
+    "id": 1013,
+    "name": "KSL BR LTDA"
   },
   {
-    "id": 1861,
-    "name": "LAC WORLDWIDE DO BRASIL TRANSPORTES INTERNACIONAIS S.A."
+    "id": 234,
+    "name": "KUEHNE+NAGEL SERVICOS LOGISTICOS LTDA."
   },
   {
     "id": 881,
