@@ -16,10 +16,6 @@ const alerts_companies = `[
     "name": "ALLINK TRANSPORTES INTERNACIONAIS LTDA"
   },
   {
-    "id": 224,
-    "name": "ALLOG PARTICIPACOES LTDA"
-  },
-  {
     "id": 112,
     "name": "ANX LOGISTICA INTERNACIONAL E AGENCIAMENTO LTDA"
   },
